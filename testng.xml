@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MSIG Test Automation Suite" parallel="false">
+    <parameter name="Name" value="Ramana Reddy Boda"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/sanje/OneDrive/Desktop/Test Selenium/MsigProfiles/src/test/java/org">
+        <classes>
+            <class name="org.LoginMsig">
+            </class>
+            <class name="org.PrintingText">
+            </class>
+        </classes>
+    </test>
+</suite>
